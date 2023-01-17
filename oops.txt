@@ -1,0 +1,24 @@
+Object oriented programming (oops)
+
+1) Object - it is real world entity which have state and behavior.
+
+2)class - collection of objects,blueprint from which we create individual object.
+          class doesnt consume any space.
+
+3)Inheritance - When one object acquires all the properties and behaviors of a 
+                parent object, it is known as inheritance. It provides code reusability. 
+                It is used to achieve runtime polymorphism.
+
+4)Polymorphism - If one task is performed in different ways, it is known as polymorphism. 
+                 For example: to convince the customer differently,
+                to draw something, for example, shape, triangle, rectangle, etc. 
+
+5)Abstraction - Hiding internal details and showing functionality is known as abstraction. 
+               For example phone call, we don't know the internal processing.        
+                in Java we use abstract class and interface to achieve abstraction.
+
+6)Encapsulation - Binding (or wrapping) code and data together into a single unit are known as encapsulation.
+                   For example, a capsule, it is wrapped with different medicines.
+
+                 A java class is the example of encapsulation. Java bean is the fully
+                 encapsulated class because all the data members are private here.

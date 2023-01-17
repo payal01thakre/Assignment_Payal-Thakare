@@ -1,0 +1,63 @@
+pseudocode for comparing three values
+
+
+
+
+1) prompt user to enter first number (a)
+2) prompt user to enter second number(b)
+3) prompt user to enter third number (c)
+4) check the condition , eg if(a>b && a>c)
+5) print a is greater number
+6) else if(b>a && b>c)
+7) print b is greater number.
+8) else print c is greater number.
+
+Algorithm for comparing three values
+arunema sinha
+
+
+1) start 
+2) declare a,b,c.
+3) input  a, b, c.
+4) check 
+5) if(a>b && a>c)
+6) print a is greater.
+7)   else if(b>a && b>c)
+8) print b is greater
+9) else 
+10) c is greater
+11) stop
+
+
+pseudocode for finding area of circle
+
+1) prompt user to enter radius (r)
+2) perform operation by using formula of finding area (area = 3.14*r*r)
+3) print area of circle 
+
+Algorithm for finding area of circle
+
+1) start
+2) declare r,area
+3) input r 
+4) area = 3.14*r*r
+5) print area
+6) stop
+
+psuedocode to check even or odd no.
+
+1) prompt user to enter the number (a)
+2) check condition if number is completly divisible by 2 then 
+3) print no. is even
+4) otherwise print no.is odd  
+ 
+
+Algorithm to check even or odd
+
+1) start
+2) declare a
+3) input a
+4) if(a/2==0)
+5) print no. is even
+6) else
+7) print no. is odd     
